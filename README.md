@@ -1,6 +1,6 @@
 ### whatsapp-spammer
  -----------------------------------------------------------
-#### Demonstrates how to spam specif person or group on whatsaapp
+#### Demonstrates how to spam specific person or group on whatsaapp
  
  💥🤖🤫
  
